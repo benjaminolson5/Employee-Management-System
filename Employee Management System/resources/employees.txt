@@ -1,0 +1,10 @@
+John Barlow, 42, 1, MANAGEMENT, 100000
+Cecelia Stafford, 45, 4, SALES, 60000
+Joy Bonner, 36, 7, IT, 85000
+Franklin Carlson, 67, 8, HR, 60000
+Brad Cohen, 38, 2, MARKETING, 61000
+Kristi Contreras, 44, 3, MARKETING, 65000
+Jonathon Clements, 20, 10, INTERN, 0
+Albi Shannon, 30, 9, SALES, 57500
+Lori Robins, 29, 5, SALES, 55000
+Miles Tomlinson, 55, 6, MANAGEMENT, 120000
